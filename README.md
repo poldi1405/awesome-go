@@ -250,9 +250,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output.
 * [colourize](https://github.com/TreyBastian/colourize) - Go library for ANSI colour text in terminals.
 * [ctc](https://github.com/wzshiming/ctc) - The non-invasive cross-platform terminal color library does not need to modify the Print method.
+* [go-ansi](https://gitlab.com/poldi1405/go-ansi) - Simple library for using ANSI codes to move the cursor and format/color text.
 * [go-ataman](https://github.com/workanator/go-ataman) - Go library for rendering ANSI colored text templates in terminals.
 * [go-colorable](https://github.com/mattn/go-colorable) - Colorable writer for windows.
 * [go-colortext](https://github.com/daviddengcn/go-colortext) - Go library for color output in terminals.
+* [go-indicators](https://gitlab.com/poldi1405/go-indicators) - Highly Configurable spinners and progress bars.
 * [go-isatty](https://github.com/mattn/go-isatty) - isatty for golang.
 * [go-prompt](https://github.com/c-bata/go-prompt) - Library for building a powerful interactive prompt, inspired by [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
 * [gocui](https://github.com/jroimartin/gocui) - Minimalist Go library aimed at creating Console User Interfaces.
@@ -1409,6 +1411,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 * [gentleman](https://github.com/h2non/gentleman) - Full-featured plugin-driven HTTP client library.
 * [go-http-client](https://github.com/bozd4g/go-http-client) - Make http calls simply and easily.
+* [got](https://github.com/melbahja/got) - Library and tool for multithreaded downloads
 * [grequests](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library.
 * [heimdall](https://github.com/gojektech/heimdall) - An enchanced http client with retry and hystrix capabilities.
 * [httpretry](https://github.com/ybbus/httpretry) - Enriches the default go HTTP client with retry functionality.
